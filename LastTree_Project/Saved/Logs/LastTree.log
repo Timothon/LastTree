@@ -884,3 +884,133 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-20.13.28:814][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
 [2023.02.04-20.13.28:814][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.02.04-20.13.28:814][635]MaterialEditorStats: Shader Count: 35
+[2023.02.04-20.14.23:268][184]LogMaterial: Display: Missing cached shadermap for Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: E01059AF7EA322FE187837FF66465EB7AA9704AF), compiling. 
+[2023.02.04-20.14.23:268][184]LogMaterial: Warning: [AssetLog] E:\Tree\LastTree_Project\Content\Materials\Dirt_M.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node CollectionParameter) CollectionParameter has invalid Collection!
+
+[2023.02.04-20.14.23:269][184]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Dirt_M.Dirt_M
+[2023.02.04-20.14.23:271][184]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: 2BF28FFE81190D0D144F929C136A37C6F89C99EC), compiling. 
+[2023.02.04-20.14.23:272][184]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dirt_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node CollectionParameter) CollectionParameter has invalid Collection!
+
+[2023.02.04-20.14.23:273][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.14.23:383][184]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: 854021A829791A14F923BBBE37EBA32F68568282), compiling. 
+[2023.02.04-20.14.23:384][184]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dirt_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node CollectionParameter) CollectionParameter has invalid Collection!
+
+[2023.02.04-20.14.23:386][184]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: BB14F8620ACD624E65D2B75DF964EACB648D58C6), compiling. 
+[2023.02.04-20.14.23:387][184]LogMaterial: Warning: [AssetLog] /Engine/Transient.Dirt_M (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node CollectionParameter) CollectionParameter has invalid Collection!
+
+[2023.02.04-20.14.23:388][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ADC372C2C6E7AB7E254BF2B7EBD6FA09246894B1), compiling. 
+[2023.02.04-20.14.23:389][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F0076AF231D7078BAADF0F836E3F030BC78F318), compiling. 
+[2023.02.04-20.14.23:391][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F09947EA1B7BD21E2996B71A7EFFB7B46C744983), compiling. 
+[2023.02.04-20.14.23:393][184]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 18E02EF1040CBCF6705106802F70E407A31CB3F2), compiling. 
+[2023.02.04-20.14.23:412][184]MaterialEditorStats: Error: [SM5] (Node CollectionParameter) CollectionParameter has invalid Collection!
+[2023.02.04-20.14.23:418][184]LogViewport: Scene viewport resized to 363x310, mode Windowed.
+[2023.02.04-20.14.29:582][506]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: 3A4331FC2B652D3EDFA353AF160218B819B25665), compiling. 
+[2023.02.04-20.14.29:585][506]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionCollectionParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D85C45AC952F8B15C40368B327AB25F07B2DD3E), compiling. 
+[2023.02.04-20.14.29:589][506]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: F774FF6C11265B7B4CCB6C29963E4CE1EB809444), compiling. 
+[2023.02.04-20.14.29:594][506]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-20.14.29:594][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.04-20.14.29:594][506]MaterialEditorStats: Shader Count: 0
+[2023.02.04-20.14.30:126][524]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-20.14.30:126][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.04-20.14.30:126][524]MaterialEditorStats: Shader Count: 1
+[2023.02.04-20.14.30:709][550]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.04-20.14.30:709][550]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.04-20.14.30:709][550]MaterialEditorStats: Shader Count: 4
+[2023.02.04-20.14.30:913][561]LogMaterialEditor: Saving and Compiling material Dirt_M
+[2023.02.04-20.14.31:333][561]LogMaterial: Display: Missing cached shadermap for Preview:Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: 59B3D90533DD346DE1BEE6D507D91A361B9CEB7A), compiling. 
+[2023.02.04-20.14.31:343][561]LogMaterial: Display: Missing cached shadermap for Dirt_M in PCD3D_SM5, Default, SM5 (DDC key hash: 41D9E2C96BFD567661E8B8410B0F462211217635), compiling. 
+[2023.02.04-20.14.31:378][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.02.04-20.14.32:328][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.02.04-20.14.34:302][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Dirt_M" FILE="../../../../../Tree/LastTree_Project/Content/Materials/Dirt_M.uasset" SILENT=true
+[2023.02.04-20.14.34:309][561]LogSavePackage: Moving output files for package: /Game/Materials/Dirt_M
+[2023.02.04-20.14.34:315][561]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/Dirt_M5573C25C42B50C64B016A9BF2D56E9BB.tmp' to '../../../../../Tree/LastTree_Project/Content/Materials/Dirt_M.uasset'
+[2023.02.04-20.14.34:328][561]AssetCheck: New page: Asset Save: Dirt_M
+[2023.02.04-20.14.34:328][561]LogContentValidation: Display: Validating Material /Game/Materials/Dirt_M.Dirt_M
+[2023.02.04-20.14.34:329][561]MaterialEditorStats: Base pass shader: 156 instructions
+[2023.02.04-20.14.34:330][561]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2023.02.04-20.14.34:330][561]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.04-20.14.34:330][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2023.02.04-20.14.34:330][561]MaterialEditorStats: Shader Count: 16
+[2023.02.04-20.14.37:962][768]LogSlate: Window 'Dirt_M' being destroyed
+[2023.02.04-20.14.37:984][768]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.14.37:984][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.14.44:982][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.14.45:043][ 74]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.04-20.14.45:043][ 74]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.04-20.14.45:043][ 74]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.04-20.14.45:044][ 74]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.04-20.14.45:044][ 74]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.04-20.14.45:044][ 74]LogWorldPartition: Display: GetPartitionedActors took 482 us
+[2023.02.04-20.14.45:044][ 74]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.02.04-20.14.45:134][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.14.45:166][ 74]PIE: New page: PIE session: ThirdPersonMap (Feb 4, 2023, 10:14:45 AM)
+[2023.02.04-20.14.45:181][ 74]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.04-20.14.45:203][ 74]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.04-20.14.45:236][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.04-20.14.45:313][ 74]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.04-20.14.45:328][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093037s)
+[2023.02.04-20.14.45:328][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.093196s)
+[2023.02.04-20.14.45:343][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.14.45:344][ 74]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.04-20.14.45:344][ 74]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.04-20.14.45:344][ 74]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.04-20.14.45:348][ 74]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.02.04-20.14.45:348][ 74]LogPlayLevel: PIE: World Init took: (0.018430s)
+[2023.02.04-20.14.45:355][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.04-20.14.45:376][ 74]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.14.45:376][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-20.14.45:376][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.14.45:376][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.14.45:376][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.14.45:376][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.14.45:378][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.14.45:452][ 74]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.04-20.14.45:452][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.14.45:452][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.14.45:452][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.14.45:453][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.04-20.14.45:453][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.02.04-20.14.45:455][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.04-20.14.45:455][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.04-20.14.45:455][ 74]LogInit: FAudioDevice initialized.
+[2023.02.04-20.14.45:455][ 74]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.02.04-20.14.45:498][ 74]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.04-20.14.45:547][ 74]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.02.04-15.14.45
+[2023.02.04-20.14.45:826][ 74]LogWorld: Bringing up level for play took: 0.328175
+[2023.02.04-20.14.45:829][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.02.04-20.14.46:114][ 74]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=586.048 Y=1029.241 Z=122.407
+[2023.02.04-20.14.46:114][ 74]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.04-20.14.46:492][ 74]PIE: Server logged in
+[2023.02.04-20.14.46:493][ 74]PIE: Play in editor total start time 1.502 seconds.
+[2023.02.04-20.14.47:372][ 75]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070827 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.02.04-20.14.52:923][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.14.52:923][365]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.04-20.14.52:923][365]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.14.52:924][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.14.53:021][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.14.53:046][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.14.53:053][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.14.53:054][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.04-20.14.53:056][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.04-20.14.53:081][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.04-20.14.53:142][366]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.02.04-20.15.02:946][590]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.15.02:946][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.15.10:436][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.04-20.15.10:437][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.15.13:593][114]LogViewport: Scene viewport resized to 866x657, mode Windowed.
+[2023.02.04-20.15.19:422][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../Tree/LastTree_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2023.02.04-20.15.19:481][408]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.02.04-20.15.19:482][408]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/BP_ThirdPersonCharacter5A0D352C4B6C77D158FFB394E48E7BB8.tmp' to '../../../../../Tree/LastTree_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.02.04-20.15.19:497][408]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.02.04-20.15.19:497][408]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
