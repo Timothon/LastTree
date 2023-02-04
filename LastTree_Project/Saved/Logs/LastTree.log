@@ -3405,3 +3405,33 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-20.53.21:155][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.04-20.53.21:160][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2023.02.04-20.53.21:201][703]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.02.04-21.02.10:726][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.02.04-21.02.10:831][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N0/RFV2GEJTX54EF1RLZVJZQA_Auto3
+[2023.02.04-21.02.10:832][ 22]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/RFV2GEJTX54EF1RLZVJZQA_Auto3FCB282B3479D646A58DDB9B829A45E9D.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N0/RFV2GEJTX54EF1RLZVJZQA_Auto3.uasset'
+[2023.02.04-21.02.10:837][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Z/PLYCZR2OQSK7NMIQIK38B7_Auto3
+[2023.02.04-21.02.10:837][ 22]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/PLYCZR2OQSK7NMIQIK38B7_Auto3547D616E4AA9A717D7F7BFB042AF7EE4.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Z/PLYCZR2OQSK7NMIQIK38B7_Auto3.uasset'
+[2023.02.04-21.02.10:841][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/T8/CMJJXQGD8QEVGUATL719IK_Auto3
+[2023.02.04-21.02.10:842][ 22]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/CMJJXQGD8QEVGUATL719IK_Auto39033DC47412D2FC75B848E87F19E8BB2.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/T8/CMJJXQGD8QEVGUATL719IK_Auto3.uasset'
+[2023.02.04-21.02.10:847][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8Z/6L712T2MN2P8CG7G7Y056G_Auto3
+[2023.02.04-21.02.10:847][ 22]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/6L712T2MN2P8CG7G7Y056G_Auto3E26949AE4D7ECC1B003D31A3F3513567.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8Z/6L712T2MN2P8CG7G7Y056G_Auto3.uasset'
+[2023.02.04-21.02.10:851][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UI/I5Q28DDH66VEV3I1MUYK2A_Auto3
+[2023.02.04-21.02.10:852][ 22]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/I5Q28DDH66VEV3I1MUYK2A_Auto33D22AD49414C034383337DA3EC85EDB1.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/UI/I5Q28DDH66VEV3I1MUYK2A_Auto3.uasset'
+[2023.02.04-21.02.10:854][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.159
+[2023.02.04-21.02.10:854][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2023.02.04-21.16.51:563][253]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-21.16.51:563][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-21.17.30:158][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.04-21.17.30:164][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2023.02.04-21.17.30:165][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2023.02.04-21.17.30:165][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Enemy]
+[2023.02.04-21.17.30:165][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-21.17.30:196][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Enemy_Auto4
+[2023.02.04-21.17.30:197][512]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/BP_Enemy_Auto414646B0F407A977341D30C9BF5581BE4.tmp' to '../../../../../Tree/LastTree_Project/Saved/Autosaves/Game/Blueprints/BP_Enemy_Auto4.uasset'
+[2023.02.04-21.17.30:199][512]LogFileHelpers: Auto-saving content packages took 0.034
+[2023.02.04-21.19.17:497][192]BlueprintLog: New page: Compile BP_Enemy
+[2023.02.04-21.19.17:653][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.04-21.19.20:620][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="../../../../../Tree/LastTree_Project/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2023.02.04-21.19.20:652][194]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Enemy
+[2023.02.04-21.19.20:653][194]LogSavePackage: Moving '../../../../../Tree/LastTree_Project/Saved/BP_EnemyB703D3E547E434B78A88CEB2FE27D00D.tmp' to '../../../../../Tree/LastTree_Project/Content/Blueprints/BP_Enemy.uasset'
+[2023.02.04-21.19.20:668][194]AssetCheck: New page: Asset Save: BP_Enemy
+[2023.02.04-21.19.20:669][194]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
